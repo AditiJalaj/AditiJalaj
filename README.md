@@ -14,6 +14,7 @@ I'm currently working as a full-stack developer focussed in frontend at a startu
 <a href="https://www.github.com/aditijalaj" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aditijalaj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ![](https://komarev.com/ghpvc/?username=aditijalaj&style=for-the-badge)
+<p><a href="https://twitter.com/aditijalaj" target="blank"><img src="https://img.shields.io/twitter/follow/aditijalaj?logo=twitter&color=blueviolet&style=flat-square&label=Follow" alt="AditiJalaj" /></a> </p>
 
 ### Skills
 
