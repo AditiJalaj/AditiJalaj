@@ -13,7 +13,6 @@ I'm currently working as a full-stack developer focussed in frontend at a startu
 
 <a href="https://www.github.com/aditijalaj" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aditijalaj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ![](https://komarev.com/ghpvc/?username=aditijalaj&style=for-the-badge)
 
 ### Skills
