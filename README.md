@@ -4,7 +4,7 @@ Hi 👋 My name is Aditi
 Full-stack developer
 --------------------
 
-I'm currently working as full-stack developer focussed in frontend at a startup.
+I'm currently working as a full-stack developer focussed in frontend at a startup.
 
 * 🌍  I'm based in India
 * 🧠  I'm learning Nest.js, GraphQL, Next.js
